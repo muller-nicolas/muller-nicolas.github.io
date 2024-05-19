@@ -1,0 +1,140 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Nicolás Müller
+email: nicolas-muller@phys.ens.fr
+description: >- # this means to ignore newlines until "baseurl:"
+  This is my personal website. In progress...
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin  : "dark" #, "contrast", "dark", "dirt", "neon", "plum", "sunrise"
+plugins:
+  - jekyll-feed
+    #  - jekyll-include-cache
+
+
+locale                   : "en-US"
+title                    : "Nicolás Müller"
+title_separator          : "-"
+name                     : &name "Nicolás Müller"
+description              : &description "Postdoctoral Researcher"
+url                      : https://nmuller.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "muller-nicolas/nmuller.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
+comments:
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  disqus:
+    shortname            :
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+staticman:
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "gh-pages" # "master", "gh-pages"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}"
+  requiredFields         : ['name', 'email', 'message']
+  transforms:
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+  theme                  : minimal-mistakes-jekyll
+    #  minimal_mistakes_skin  : "mint" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "plum", "sunrise"
+  minimal_mistakes_skin  : "aqua" #, "contrast", "dark", "dirt", "neon", "plum", "sunrise"
+    
+# Site Author
+author:
+  name             : "Nicolás Müller"
+  avatar           : "files/profile_pic.jpg"
+  bio              : "Postdoctoral Researcher"
+  location         : "[LPENS, Paris, France](https://www.google.com/maps/place/ENS+Physics+Department/@48.8430812,2.3440961,17z/data=!3m1!4b1!4m6!3m5!1s0x47e671e910fb1b5b:0x68f94e8f72222598!8m2!3d48.8430812!4d2.346671!16s%2Fg%2F1td097tj?entry=ttu)"
+  employer         : 
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=ymtN63gAAAAJ&hl=en"
+  email            : "nicolas.muller@phys.ens.fr"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "muller-nicolas"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : 
+  orcid            : "https://orcid.org/0000-0003-2204-7873"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : #"replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

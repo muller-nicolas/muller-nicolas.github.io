@@ -32,7 +32,7 @@ theme: minimal-mistakes-jekyll
 minimal_mistakes_skin  : "dark" #, "contrast", "dark", "dirt", "neon", "plum", "sunrise"
 
 include:
-  - _pages/
+  - _pages
 
 plugins:
   - jekyll-feed

@@ -30,6 +30,10 @@ github_username:  jekyll
 # Build settings
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin  : "dark" #, "contrast", "dark", "dirt", "neon", "plum", "sunrise"
+
+include:
+  - _pages/
+
 plugins:
   - jekyll-feed
     #  - jekyll-include-cache
@@ -86,7 +90,7 @@ author:
   name             : "Nicolás Müller"
   avatar           : "files/profile_pic.jpg"
   bio              : "Postdoctoral Researcher"
-  location         : "[LPENS, Paris, France](https://www.google.com/maps/place/ENS+Physics+Department/@48.8430812,2.3440961,17z/data=!3m1!4b1!4m6!3m5!1s0x47e671e910fb1b5b:0x68f94e8f72222598!8m2!3d48.8430812!4d2.346671!16s%2Fg%2F1td097tj?entry=ttu)"
+  location         : "LPENS, Paris, France"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ymtN63gAAAAJ&hl=en"

@@ -21,14 +21,14 @@
 title: Nicolás Müller
 email: nicolas-muller@phys.ens.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal website. In progress...
+  Welcome to my personal website. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://muller-nicolas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  muller-nicolas
+github_username: muller-nicolas
 
 # Build settings
 theme: minimal-mistakes-jekyll
+#theme: jekyll-theme-minimal
 minimal_mistakes_skin  : "dark" #, "contrast", "dark", "dirt", "neon", "plum", "sunrise"
 
 include:
@@ -38,6 +38,16 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+lsi: false
+safe: true
+#source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
 locale                   : "en-US"
 title                    : "Nicolás Müller"
@@ -91,8 +101,8 @@ author:
   avatar           : "files/profile_pic.jpg"
   bio              : "Postdoctoral Researcher"
   location         : "LPENS, Paris, France"
-  employer         : 
-  pubmed           : 
+  employer         : "CNRS"
+  #  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ymtN63gAAAAJ&hl=en"
   email            : "nicolas.muller@phys.ens.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"

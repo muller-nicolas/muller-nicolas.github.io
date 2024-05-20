@@ -23,9 +23,9 @@ email: nicolas-muller@phys.ens.fr
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal website. In progress...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://muller-nicolas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
+github_username:  muller-nicolas
 
 # Build settings
 theme: minimal-mistakes-jekyll
@@ -36,7 +36,7 @@ include:
 
 plugins:
   - jekyll-feed
-    #  - jekyll-include-cache
+  - jekyll-include-cache
 
 
 locale                   : "en-US"

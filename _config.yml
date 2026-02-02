@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Nicolás Müller
-email: nicolas-muller@phys.ens.fr
+email: nicolas-muller@lpp.polytechnique.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal website. 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,7 +27,9 @@ url: "https://muller-nicolas.github.io" # the base hostname & protocol for your 
 github_username: muller-nicolas
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+
+#theme: minimal-mistakes-jekyll
 #theme: jekyll-theme-minimal
 minimal_mistakes_skin  : "dark" #, "contrast", "dark", "dirt", "neon", "plum", "sunrise"
 
@@ -100,11 +102,11 @@ author:
   name             : "Nicolás Müller"
   avatar           : "files/profile_pic.jpg"
   bio              : "Postdoctoral Researcher"
-  location         : "LPENS, Paris, France"
+  location         : "LPP, Palaiseau, France"
   employer         : "CNRS"
   #  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ymtN63gAAAAJ&hl=en"
-  email            : "nicolas.muller@phys.ens.fr"
+  email            : "nicolas.muller@lpp.polytechnique.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

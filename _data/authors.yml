@@ -1,0 +1,48 @@
+# Authors
+
+GK:
+  name        : "Giorgio Krstulovic"
+  url         : "https://gkrstulovic.gitlab.io/authors/admin"
+  # email       : "giorgio.krstulovic@univ-cotedazur.fr"
+  # bio         : "This is the first name."
+  # avatar      : "bio-photo-2.jpg"
+  # twitter     : "name"
+  # google_plus : "Name"
+
+FP:
+  name        : "François Pétrélis"
+  url         : "https://www.phys.ens.fr/~petrelis/"
+
+CG:
+  name        : "Christophe Gissinger"
+  url         : "https://www.phys.ens.fr/~gissinger/"
+
+SG:
+  name        : "Sébastien Galtier"
+  url         : "https://sebastien-galtier.fr"
+
+
+# Laboratories
+UBA:
+  name        : "Universidad de Buenos Aires"
+  url         : "https://sitio.df.uba.ar"
+
+LPP:
+  name        : "Laboratoire de Physique des Plasmas"
+  url         : "https://www.lpp.polytechnique.fr"
+
+LPENS:
+  name        : "Laboratoire de Physique de l'École Normale Supérieure"
+  url         : "https://www.lpens.ens.psl.eu"
+
+OCA:
+  name        : "Observatoire de la Côte d'Azur"
+  url         : "https://www.oca.eu"
+
+# Name2 Name2:
+#   name        : "Name2 Name2"
+#   email       : "name2@name2.com"
+#   bio         : "I ordered what?"
+#   avatar      : "bio-photo.jpg"
+#   twitter     : "name2"
+#   google_plus : "Name"

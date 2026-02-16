@@ -15,10 +15,11 @@ name                     : &name "Nicolás Pablo Müller"
 description              : &description "Postdoctoral Researcher"
 url                      : https://muller-nicolas.github.io # the base hostname & protocol for your site, e.g. http://example.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "muller-nicolas/nmuller.github.io"
+# repository               : "muller-nicolas/nmuller.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes
+# remote_theme: mmistakes/minimal-mistakes
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

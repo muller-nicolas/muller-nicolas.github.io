@@ -7,22 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- 
-v1:
-I am a theoretical physicist specializing in fluid dynamics, quantum fluids, turbulence in geophysical and astrophysical flows. My work integrates advanced numerical simulations and theoretical modeling to address complex problems in fluid dynamics.
-
-My research interests include the study of quantum fluids and superfluid turbulence, an out-of-equilibrium regime driven by the complex interaction between quantum vortices. This is a fascinating system that displays differences and similarities with classical turbulence, and understanding it could help for the development of future theories for turbulent flows. 
-I am also interested in the geodynamo problem, mechanism by which the Earth's magnetic field is generated. I am particularly interested in the process of magnetic reversals.
-
-v2:
-I am a theoretical physicist working at the interface of fluid dynamics, quantum fluids, and turbulence in geophysical and astrophysical systems. My research combines advanced numerical simulations with theoretical modeling to investigate complex nonlinear phenomena in fluid flows.
-
-A central focus of my work is superfluid turbulence, an out-of-equilibrium regime governed by the complex dynamics of quantum vortices, topological defects with a quantized circulation. My main interest is to understand the differences and similarities between classical and quantum turbulence, by means of energy cascades and intermittency, to develop further turbulent models.
-This system provides a unique bridge between quantum mechanics and classical turbulence, revealing both deep analogies and fundamental differences. 
-Understanding these connections offers insight into the broader problem of turbulence and may contribute to the development of more unified theoretical frameworks.
-
-I am also interested in magnetohydrodynamics in geophysical and astrophysical flows. In particular, the dynamo process in planetary interiors, particularly the geodynamo mechanism responsible for generating Earth’s magnetic field. My work explores the dynamics underlying magnetic field reversals and the interplay between fluid motion and magnetic induction in rotating conductive systems. The solar wind is another system in which magnetic fields play a central role in the development of turbulence.  -->
-
 I am a theoretical physicist working at the interface of fluid dynamics, quantum fluids, and turbulence in geophysical and astrophysical systems. My research combines advanced numerical simulations with theoretical modeling to investigate nonlinear systems in fluid dynamics.
 
 A central focus of my work is **superfluid turbulence**, an out-of-equilibrium regime governed by the dynamics of quantum vortices, topological defects carrying quantized circulation. I study the similarities and differences between classical and quantum turbulence, with particular emphasis on **energy cascades** and **intermittency**. By exploring how universal turbulent features emerge from fundamentally different microscopic physics, my goal is to contribute to the development of improved theoretical models of turbulence.

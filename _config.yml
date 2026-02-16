@@ -15,8 +15,8 @@ name                     : &name "Nicolás Pablo Müller"
 description              : &description "Postdoctoral Researcher"
 url                      : https://muller-nicolas.github.io # the base hostname & protocol for your site, e.g. http://example.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-# repository               : "muller-nicolas/nmuller.github.io"
-repository               : "academicpages/academicpages.github.io"
+repository               : "muller-nicolas/muller-nicolas.github.io"
+# repository               : "academicpages/academicpages.github.io"
 
 # Build settings
 # remote_theme: mmistakes/minimal-mistakes

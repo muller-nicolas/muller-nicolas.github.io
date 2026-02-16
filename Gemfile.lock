@@ -279,6 +279,7 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-feed
+  jekyll-include-cache
   jekyll-redirect-from
   jekyll-sitemap
   jemoji

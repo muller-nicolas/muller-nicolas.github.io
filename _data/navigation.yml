@@ -1,11 +1,13 @@
 main:
-  - title: Home
-    url: /
+  - title: "News"
+    url: /news/
   - title: Research
     url: /research/
   - title: Publications
     url: /publications/
-  - title: CV
-    url: /files/cv.pdf
   - title: Gallery
     url: /gallery/
+  - title: CV
+    url: /files/cv.pdf
+#  - title: Home
+#    url: /

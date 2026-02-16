@@ -100,7 +100,7 @@ atom_feed:
 # Site Author
 author:
   name             : "Nicolás Müller"
-  avatar           : "files/profile_pic.jpg"
+  avatar           : "/files/profile_pic.jpg"
   bio              : "Postdoctoral Researcher"
   location         : "LPP, Palaiseau, France"
   employer         : "CNRS"

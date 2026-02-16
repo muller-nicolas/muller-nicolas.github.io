@@ -9,31 +9,14 @@
 
 main:
   - title: "News"
-    url: /year-archive/
-
-  - title: "Research"
+    url: /news/
+  - title: Research
     url: /research/
-
   - title: "Publications"
     url: /publications/
-
-  - title: "Gallery"
+  - title: Gallery
     url: /gallery/
-
-  - title: "CV"
+  - title: CV
     url: /files/cv.pdf
-    
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+#  - title: Home
+#    url: /

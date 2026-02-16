@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nicolás Müller
+title: Nicolás Pablo Müller
 email: nicolas-muller@lpp.polytechnique.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal website. 
@@ -31,10 +31,11 @@ remote_theme: mmistakes/minimal-mistakes
 
 #theme: minimal-mistakes-jekyll
 #theme: jekyll-theme-minimal
-minimal_mistakes_skin  : "dark" #, "contrast", "dark", "dirt", "neon", "plum", "sunrise"
+minimal_mistakes_skin  : "default" #, "contrast", "dark", "dirt", "neon", "plum", "sunrise"
 
 include:
   - _pages
+  # - _posts
 
 plugins:
   - jekyll-feed
@@ -52,9 +53,9 @@ kramdown:
   syntax_highlighter: rouge
 
 locale                   : "en-US"
-title                    : "Nicolás Müller"
+title                    : "Nicolás Pablo Müller"
 title_separator          : "-"
-name                     : &name "Nicolás Müller"
+name                     : &name "Nicolás Pablo Müller"
 description              : &description "Postdoctoral Researcher"
 url                      : https://nmuller.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -99,14 +100,14 @@ atom_feed:
     
 # Site Author
 author:
-  name             : "Nicolás Müller"
+  name             : "Nicolás P. Müller"
   avatar           : "/files/profile_pic.jpg"
   bio              : "Postdoctoral Researcher"
   location         : "LPP, Palaiseau, France"
   employer         : "CNRS"
   #  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ymtN63gAAAAJ&hl=en"
   email            : "nicolas.muller@lpp.polytechnique.fr"
+  googlescholar    : "https://scholar.google.com/citations?user=ymtN63gAAAAJ&hl=en"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

@@ -24,15 +24,14 @@ In September 2025, I started a postdoctoral position at the [{{ site.data.author
 Last updated: February 2026
 </span>
 
----
-
+<!-- ---
 News
-======
+====== -->
 <!-- - Welcome to my personal website! -->
-{% for post in site.categories.news limit:5 %}
+<!-- {% for post in site.categories.news limit:5 %}
   <p>
     <strong>{{ post.date | date: "%B %Y" }}</strong> — 
     <a href="{{ post.url }}">{{ post.title }}</a>
   </p>
-{% endfor %}
+{% endfor %} -->
 

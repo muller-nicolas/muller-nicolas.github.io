@@ -17,6 +17,17 @@ end
 gem "webrick", "~> 1.9"
 gem "breakpoint", "~> 2.7"
 
+# source 'https://rubygems.org'
+
+# gem 'jekyll', '~> 4.2.2'
+# gem 'jekyll-feed'
+# gem 'jekyll-seo-tag'
+# gem 'jekyll-sitemap'
+# gem 'jekyll-paginate'
+# gem 'github-pages', group: :jekyll_plugins  # Optional, if you still want some compatibility
+# gem 'webrick'  # Required for Ruby 3.0+
+# gem 'wdm', '~> 0.1.1', platforms: [:mingw, :x64_mingw, :mswin]  # Required for Windows
+
 # source "https://rubygems.org"
 # # Hello! This is where you manage which Jekyll version is used to run.
 # # When you want to use a different version, change it below, save the

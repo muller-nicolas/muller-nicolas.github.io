@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+keywords: "nicolas, muller, lpp, website, turbulence, fluid dynamics, fluids, superfluids, quantum fluids, numerical simulations, magnetohydrodynamics, dynamo, geodynamo, solar wind, magnetoacoustic waves"
 ---
 
 I am a theoretical physicist working at the interface of fluid dynamics, quantum fluids, and turbulence in geophysical and astrophysical systems. My research combines advanced numerical simulations with theoretical modeling to investigate nonlinear systems in fluid dynamics.

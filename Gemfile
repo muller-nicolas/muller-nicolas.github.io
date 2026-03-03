@@ -9,6 +9,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
+gem "jekyll-seo-tag" # For keywords and description meta tags
 #gem "minimal-mistakes-jekyll"
 #gem "webrick", group: :jekyll_plugins
 

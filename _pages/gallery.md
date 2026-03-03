@@ -3,6 +3,7 @@ layout: archive
 title: "Gallery"
 permalink: /gallery/
 author_profile: true
+keywords: "turbulence, fluid dynamics, fluids, superfluids, quantum fluids, numerical simulations, magnetohydrodynamics, dynamo, geodynamo, reversals, solar wind, magnetoacoustic waves, wave turbulence"
 ---
 
 Here I include some pictures and movies about my research.

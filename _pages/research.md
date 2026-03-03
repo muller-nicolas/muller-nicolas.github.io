@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+keywords: "turbulence, fluid dynamics, fluids, superfluids, quantum fluids, numerical simulations, magnetohydrodynamics, dynamo, geodynamo, reversals, solar wind, magnetoacoustic waves, wave turbulence"
 ---
 
 My research interests include three main different topics:

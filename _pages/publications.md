@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+keywords: "turbulence, fluid dynamics, fluids, superfluids, quantum fluids, numerical simulations, magnetohydrodynamics, dynamo, geodynamo, reversals, solar wind, magnetoacoustic waves, wave turbulence"
 ---
 
 All my articles can also be found on [my Google Scholar profile](https://scholar.google.com/citations?user=ymtN63gAAAAJ&hl=en).

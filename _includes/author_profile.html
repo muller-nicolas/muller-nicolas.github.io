@@ -1,0 +1,11 @@
+<ul class="social-icons">
+  {% if site.author.github %}
+    <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github"></i> GitHub</a></li>
+  {% endif %}
+  {% if site.author.google_scholar %}
+    <li><a href="{{ site.author.google_scholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a></li>
+  {% endif %}
+  {% if site.author.orcid %}
+    <li><a href="{{ site.author.orcid }}"><i class="fab fa-orcid"></i> ORCID</a></li>
+  {% endif %}
+</ul>

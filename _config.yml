@@ -21,7 +21,7 @@
 title: Nicolás Pablo Müller
 email: nicolas-muller@lpp.polytechnique.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal website. 
+  Nicolás Müller's research on turbulence, superfluids, geodynamo, and magnetoacoustic waves in the solar wind. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://muller-nicolas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: muller-nicolas
@@ -58,9 +58,9 @@ title                    : "Nicolás Pablo Müller"
 title_separator          : "-"
 name                     : &name "Nicolás Pablo Müller"
 description              : &description "Postdoctoral Researcher"
-url                      : https://nmuller.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://muller-nicolas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "muller-nicolas/nmuller.github.io"
+repository               : "muller-nicolas/muller-nicolas.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -95,7 +95,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  theme                  : minimal-mistakes-jekyll
+  # theme                  : minimal-mistakes-jekyll
     #  minimal_mistakes_skin  : "mint" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "plum", "sunrise"
   minimal_mistakes_skin  : "aqua" #, "contrast", "dark", "dirt", "neon", "plum", "sunrise"
     
@@ -109,33 +109,49 @@ author:
   #  pubmed           : 
   email            : "nicolas.muller@lpp.polytechnique.fr"
   googlescholar    : "https://scholar.google.com/citations?user=ymtN63gAAAAJ&hl=en"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "muller-nicolas"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : 
   orcid            : "https://orcid.org/0000-0003-2204-7873"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : #"replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  # orcid            : "0000-0003-2204-7873"
+  # linkedin         : 
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  # uri              :
+  # bitbucket        :
+  # codepen          :
+  # dribbble         :
+  # flickr           :
+  # facebook         :
+  # foursquare       :
+  # google_plus      :
+  # keybase          :
+  # instagram        :
+  # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  # lastfm           :
+  # pinterest        :
+  # soundcloud       :
+  # stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # steam            :
+  # tumblr           :
+  # twitter          : #"replacethistwitterhandle"
+  # vine             :
+  # weibo            :
+  # xing             :
+  # youtube          :
+  # wikipedia        :
+
+social:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/muller-nicolas"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=ymtN63gAAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0003-2204-7873"
+
+sass:
+  sass_dir: _sass
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -6,14 +6,9 @@ author_profile: true
 keywords: "turbulence, fluid dynamics, fluids, superfluids, quantum fluids, numerical simulations, magnetohydrodynamics, dynamo, geodynamo, reversals, solar wind, magnetoacoustic waves, wave turbulence"
 ---
 
-Here I include some pictures and movies about my research.
+Here I include figures and movies about my research.
 
 # Quantum fluids and quantum turbulence
-
-<!-- <video width="100%" controls>
-  <source src="/files/gallery/NLPot1024.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> -->
 
 Evolution of a quantum vortex tangle in superfluid turbulence in a system that supports rotons using $$1024^3$$ collocation points. You can find the article [here](/files/papers/Müller and Krstulovic - 2020 - Kolmogorov and Kelvin wave cascades in a generaliz.pdf).
 <figure style="max-width: 800px;">

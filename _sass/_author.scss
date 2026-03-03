@@ -1,0 +1,8 @@
+// .author__avatar img {max-width: 180px; border-radius: 0%; opacity: 1; transition: none; }
+// .author__avatar img:hover {opacity: 1; filter: none; }
+
+
+.author__avatar { display: table-cell; vertical-align: top; width: 36px; height: 36px; }
+@media (min-width: 64em) { .author__avatar { display: block; width: auto; height: auto; } }
+.author__avatar img { max-width: 180px; border-radius: 0%; opacity: 1; transition: none; }
+@media (min-width: 64em) { .author__avatar img { padding: 5px; border: 1px solid #f2f3f3; } }

@@ -13,6 +13,11 @@ All my articles can also be found on [my Google Scholar profile](https://scholar
 
 # List of Publications
 
+1. **N. P. Müller**, L. Skrbek, Y. A. Sergeev, and G. Krstulovic.
+Pressure and size dependence of roton emission and vortex creation  by moving objects in He II in T → 0 limit: Generalized nonlocal Gross-Pitaevskii model. *Physical Review Fluids 11, 104705 (2026)* \\
+[PDF](/files/papers/Müller et al. - 2026 - Pressure and size dependence of roton emission and vortex creation by moving objects in He II in T.pdf)
+[DOI](https://doi.org/10.1103/n4hm-rnpj) 
+
 1. **N. P. Müller**, C. Gissinger, and F. Pétrélis.
 Magnetic reversals in a geodynamo model with a stably–stratified layer. *Physics of the Earth and Planetary Interiors 371, 107502 (2026)* \\
 [PDF](/files/papers/Müller et al. - 2026 - Magnetic reversals in a geodynamo model with a stably–stratified layer.pdf)

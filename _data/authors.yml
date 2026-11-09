@@ -29,6 +29,10 @@ YS:
   name        : "Yuri Sergeev"
   url         : "https://www.ncl.ac.uk/maths-physics/people/profile/yurisergeev.html"
 
+AB:
+  name        : "Andrew Baggaley"
+  url         : "http://abag.wikidot.com"
+
 
 # Laboratories
 UBA:
@@ -46,6 +50,14 @@ LPENS:
 OCA:
   name        : "Observatoire de la Côte d'Azur"
   url         : "https://www.oca.eu"
+
+LAN:
+  name        : "Lancaster University"
+  url         : "https://www.lancaster.ac.uk"
+
+MARS:
+  name        : "MARS"
+  url         : "https://www.lancaster.ac.uk/mathematics-for-ai-in-real-world-systems/"
 
 # Name2 Name2:
 #   name        : "Name2 Name2"

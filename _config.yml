@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Nicolás Pablo Müller
-email: nicolas-muller@lpp.polytechnique.fr
+email: n.muller@lancaster.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Nicolás Müller's research on turbulence, superfluids, geodynamo, and magnetoacoustic waves in the solar wind. 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -57,7 +57,7 @@ locale                   : "en-US"
 title                    : "Nicolás Pablo Müller"
 title_separator          : "-"
 name                     : &name "Nicolás Pablo Müller"
-description              : &description "Postdoctoral Researcher"
+description              : &description "Senior Research Associate"
 url                      : https://muller-nicolas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "muller-nicolas/muller-nicolas.github.io"
@@ -103,11 +103,11 @@ atom_feed:
 author:
   name             : "Nicolás P. Müller"
   avatar           : "/files/profile_pic.jpg"
-  bio              : "Postdoctoral Researcher"
-  location         : "LPP, Palaiseau, France"
-  employer         : "CNRS"
+  bio              : "Senior Research Associate"
+  location         : "MARS, Lancaster University, UK"
+  # employer         : "MARS"
   #  pubmed           : 
-  email            : "nicolas.muller@lpp.polytechnique.fr"
+  email            : "n.muller@lancaster.ac.uk"
   googlescholar    : "https://scholar.google.com/citations?user=ymtN63gAAAAJ&hl=en"
   github           : "muller-nicolas"
   orcid            : "https://orcid.org/0000-0003-2204-7873"

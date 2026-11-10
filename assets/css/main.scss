@@ -41,3 +41,65 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.page__content {
+  font-size: 1.0625rem;
+  line-height: 1.75;
+}
+
+.page__content p {
+  max-width: 72ch;
+  margin-bottom: 1.25em;
+}
+
+.page__content li {
+  line-height: 1.65;
+}
+
+.page__content h2,
+.page__content h3 {
+  clear: both;
+}
+
+.page__content .text-figure {
+  width: 42%;
+  max-width: 24rem;
+  margin-top: 0.25rem;
+  margin-right: 0;
+  margin-bottom: 1rem;
+  margin-left: 0;
+}
+
+.page__content .text-figure--right {
+  float: right;
+  margin-left: 1.5rem;
+}
+
+.page__content .text-figure--left {
+  float: left;
+  margin-right: 1.5rem;
+}
+
+.page__content .text-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-bottom: 0.5rem;
+}
+
+.page__content .text-figure figcaption {
+  font-size: 0.85em;
+  line-height: 1.45;
+  color: #646769;
+}
+
+@media (max-width: 48em) {
+  .page__content .text-figure,
+  .page__content .text-figure--right,
+  .page__content .text-figure--left {
+    float: none;
+    width: min(100%, 32rem);
+    max-width: 100%;
+    margin: 0 auto 1.5rem;
+  }
+}

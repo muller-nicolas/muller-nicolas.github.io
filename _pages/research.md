@@ -12,7 +12,10 @@ My research interests include three main different topics:
 - Turbulence in the solar wind.
 
 # Quantum turbulence
-![Quantum vortex tangle](/files/research/quantum_turbulence.jpeg)
+<figure class="text-figure text-figure--right">
+  <img src="/files/research/quantum_turbulence.jpeg" alt="Quantum vortex tangle">
+  <figcaption>A quantum vortex tangle in superfluid turbulence.</figcaption>
+</figure>
 
 Superfluids are a fascinating state of matter characterized by their complete absence of viscosity. In these systems, vorticity emerges as vortex filaments with a quantized circulation, known as quantum **quantum vortices**. These hydrodynamical structures of the flow can interact and reconnect, giving rise to an out-of-equilibrium regime known as **quantum turbulence**. While this regime shares intriguing similarities with classical turbulence, it also exhibits profound differences, reflecting the unique nature of superfluid flow at small scales. 
 
@@ -47,6 +50,5 @@ I am particularly interested in the study of wave turbulence in the solar wind. 
 The solar wind is a unique system for studying turbulence, thanks to its large-scale separation and the wide range of waves it supports, such as Alfvén, fast, and slow magneto-acoustic waves. The non-linear interactions between these waves give rise to an out-of-equilibrium regime known as **wave turbulence**. This regime shares key features with traditional turbulence, such as energy cascades, but its theoretical framework allows for deep analytical study.
 
 My research focuses on wave turbulence in the solar wind. To explore this process, I use **compressible magnetohydrodynamics**, **wave turbulence theory**, and **numerical simulations**.
-
 
 

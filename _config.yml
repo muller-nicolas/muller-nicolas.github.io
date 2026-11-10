@@ -21,7 +21,7 @@
 title: Nicolás Pablo Müller
 email: n.muller@lancaster.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Nicolás Müller's research on turbulence, superfluids, geodynamo, and magnetoacoustic waves in the solar wind. 
+  Nicolás Müller's research on turbulent flows, superfluids, and magnetohydrodynamics. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://muller-nicolas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: muller-nicolas

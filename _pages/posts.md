@@ -7,11 +7,10 @@ keywords: "turbulence, fluid dynamics, fluids, superfluids, quantum fluids, nume
 ---
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts limit:3 %}
     <li>
       <span>{{ post.date | date: "%B %d, %Y" }}</span>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
-

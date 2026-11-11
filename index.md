@@ -21,10 +21,15 @@ Short bio
 I obtained my degree in Physics at [{{ site.data.authors.UBA.name }}]({{ site.data.authors.UBA.url }}) in 2019. I obtained my PhD degree in Physics in 2022 at the [{{ site.data.authors.OCA.name }}]({{ site.data.authors.OCA.url }}) in Nice under the supervision of [{{ site.data.authors.GK.name }}]({{ site.data.authors.GK.url }}), where I studied the dynamics of quantum vortices in superfluid turbulence. After holding a short postdoctoral position there, in September 2023 I moved to Paris to work at [{{ site.data.authors.LPENS.name }}]({{ site.data.authors.LPENS.url }}) as a postdoctoral researcher in collaboration with [{{ site.data.authors.FP.name }}]({{ site.data.authors.FP.url }}) and [{{ site.data.authors.CG.name }}]({{ site.data.authors.CG.url }}), studying polarity reversals in the geodynamo. In September 2025, I started a postdoctoral position at the [{{ site.data.authors.LPP.name }}]({{ site.data.authors.LPP.url }}) from the École Polytechnique in Palaiseau, where my research focuses on the theoretical and numerical study of wave turbulence in the solar wind, and I work in collaboration with [{{ site.data.authors.SG.name }}]({{ site.data.authors.SG.url }}). 
 Since November 2026 I started a Senior Research Associate position in the [{{ site.data.authors.MARS.name }}]({{ site.data.authors.MARS.url }}) Department at [{{ site.data.authors.LAN.name }}]({{ site.data.authors.LAN.url }}), where I focus on the study of turbulence and vortex nucleation in quantum fluids.  
 
+<span style="font-size: 0.8em;">
+Last updated: November 2026
+</span>
+
 <!-- Recent posts
 --- -->
 
-<!-- <ul>
+<!-- ---
+<ul>
   {% for post in site.posts limit:3 %}
     <li>
       <span>{{ post.date | date: "%B %d, %Y" }}</span> —
@@ -32,10 +37,6 @@ Since November 2026 I started a Senior Research Associate position in the [{{ si
     </li>
   {% endfor %}
 </ul> -->
-
-<span style="font-size: 0.8em;">
-Last updated: November 2026
-</span>
 
 <!-- ---
 News
